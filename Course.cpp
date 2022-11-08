@@ -23,6 +23,6 @@ return courseTitle;
 void Course::PrintInfo() 
 {
   cout << "Course Information: " << endl;
-  cout << "  Course Number : " << courseNumber << endl;
-  cout << "  Course Title : " << courseTitle << endl;
+  cout << "   Course Number : " << courseNumber << endl;
+  cout << "   Course Title : " << courseTitle << endl;
 }
